@@ -37,16 +37,22 @@ breaking them just to understand them better.
 
 - [Kestra](https://github.com/kestra-io/kestra)
 
-## currently exploring
+## connect with me :)
 
-```text
-Java
-Spring Boot
-REST APIs
-PostgreSQL
-Redis
-Docker
-Microservices
-System Design
-Distributed Systems
-Open Source
+<p>
+  <a href="https://nimesh-dev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nimesh-sharma-5aa961286/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/NimeshXTV">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>still learning. still building. 🚀</i>
+</p>
