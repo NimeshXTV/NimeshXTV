@@ -31,11 +31,14 @@ breaking them just to understand them better.
 - 🌐 **[Personal Portfolio](https://github.com/NimeshXTV/personal-portfolio-website)**  
   My personal portfolio website.
 
-## open source
-
+## Open Source Contributions
 🔧 Contributing to open source and learning from real-world codebases.
 
-- [Kestra](https://github.com/kestra-io/kestra)
+[![Contributor](https://img.shields.io/badge/5%20PRs%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://github.com/search?q=org:kestra-io+author:NimeshXTV+is:pr+is:merged&type=pullrequests)
+
+- [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+
+
 
 ## connect with me :)
 
